@@ -1,1 +1,2 @@
-# Week-7-Getting-values-using-JS
+# Olaes, Paviola R.
+# IT4I
